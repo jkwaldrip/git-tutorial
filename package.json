@@ -1,0 +1,19 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "A demo project for a Git tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkwaldrip/git-tutorial.git"
+  },
+  "author": "Jain Waldrip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkwaldrip/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/jkwaldrip/git-tutorial#readme"
+}
